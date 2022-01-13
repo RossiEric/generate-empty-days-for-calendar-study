@@ -1,0 +1,25 @@
+{
+  "succeeded": true,
+  "message": null,
+  "errors": null,
+  "data": [
+    {
+      "statusDia": "JaRecebido",
+      "statusValor": "Pendente",
+      "valor": 2.68,
+      "dataPagamento": "2021-10-13T00:00:00"
+    },
+    {
+      "statusDia": "JaRecebido",
+      "statusValor": "Pendente",
+      "valor": 3.2,
+      "dataPagamento": "2021-10-20T00:00:00"
+    },
+    {
+      "statusDia": "JaRecebido",
+      "statusValor": "Pendente",
+      "valor": 7.67,
+      "dataPagamento": "2021-10-27T00:00:00"
+    }
+  ]
+}
