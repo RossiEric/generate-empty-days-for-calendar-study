@@ -26,7 +26,7 @@ obj.data.forEach((elem, index) => {
 });
 
 // Returns an array of dates between the two dates
-function getDates(startDate: Date, endDate: number | Date) {
+function getDates(startDate: Date, endDate: Date) {
   const dates = [];
   let currentDate = startDate;
   const addDays = function (this: any, days: number) {
